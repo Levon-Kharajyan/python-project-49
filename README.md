@@ -3,3 +3,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/3b550e7aa06b6bc01129/maintainability)](https://codeclimate.com/github/Levon-Kharajyan/python-project-49/maintainability)
 [brain-even demonstration](https://asciinema.org/a/qUIuh9GT36y0FuNOKlQ92ifxh)
 [brain-calc demonstration](https://asciinema.org/a/E3ICh0HwlcHtliYfk6zqwrQs7)
+[brain-gcd demonstration](https://asciinema.org/a/hUA2NQ74fV20jOkYUkyLHvDLA)
