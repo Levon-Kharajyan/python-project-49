@@ -18,32 +18,27 @@ Python interpreter installed on the computer.
 
 ### Instaltation
 Use the following commands to install:
-- cloning a repository
+- cloning a repository  
 `git clone git@github.com:Levon-Kharajyan/python-project-49.git`
 
-- installing dependencies
+- installing dependencies  
 `poetry install`
 
-- project distribution build
+- project distribution build  
 `poetry build`
 
-- package installation
+- package installation  
 `python3 -m pip install --user dist/hexlet_code-0.1.0-py3-none-any.whl`
 
 Or you can use commands from Makefile.
 
 ### Gameplay demo
-#### Brain even
-https://asciinema.org/a/qUIuh9GT36y0FuNOKlQ92ifxh
+[Brain even](https://asciinema.org/a/qUIuh9GT36y0FuNOKlQ92ifxh)
 
-#### Brain calc
-https://asciinema.org/a/E3ICh0HwlcHtliYfk6zqwrQs7
+[Brain calc](https://asciinema.org/a/E3ICh0HwlcHtliYfk6zqwrQs7)
 
-#### Brain gcd
-https://asciinema.org/a/hUA2NQ74fV20jOkYUkyLHvDLA
+[Brain gcd](https://asciinema.org/a/hUA2NQ74fV20jOkYUkyLHvDLA)
 
-#### Brain progression
-https://asciinema.org/a/VA73WQEORlehhrIHyLqSNLhiL
+[Brain progression](https://asciinema.org/a/VA73WQEORlehhrIHyLqSNLhiL)
 
-#### Brain prime
-https://asciinema.org/a/sbwklcgL99c2aXbIFhUHHAWY6
+[Brain prime](https://asciinema.org/a/sbwklcgL99c2aXbIFhUHHAWY6)
