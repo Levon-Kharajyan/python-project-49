@@ -1,8 +1,16 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
-authors = ["Levon Kharajyan <l.kharajyan@gmail.com>"]
+description = "The first project in Hexlet's Python Software Developer course"
+classifiers = [
+    "Natural Language :: Russian",
+    "Programming Language :: Python :: 3",
+    "Framework :: Flake8"
+]
+repository = "https://github.com/Levon-Kharajyan/python-project-49"
+authors = [
+    "Levon Kharajyan <l.kharajyan@gmail.com>"
+]
 readme = "README.md"
 packages = [{ include = "brain_games" }]
 
